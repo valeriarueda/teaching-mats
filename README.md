@@ -1,2 +1,2 @@
-# teaching-mats
+# Teaching Mats
 Some teaching materials
